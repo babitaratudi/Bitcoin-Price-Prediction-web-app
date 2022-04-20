@@ -1,0 +1,78 @@
+body{
+    background-image: url('bgimage1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+form{
+    margin-left: 60%;
+    margin-top: 50px;
+}
+.login{
+    
+        color: white;
+    
+        font-size: 20px;
+        border-radius: 40px;
+        display: inline;
+        text-align: center;
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        margin-left: 92%;
+        margin-top: 20px;
+
+        border-width: 0px;
+        cursor: pointer;
+        
+}
+.form-horizontal{
+    color: white;
+    
+}
+.signup{
+    color: white;
+    
+    background-image: linear-gradient(#f74f3e, #99382F);;
+    
+        font-size: 20px;
+        border-radius: 40px;
+        display: inline;
+        text-align: center;
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        margin-left: 15%;
+        margin-top: 10px;
+
+        border-width: 0px;
+        cursor: pointer;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 70px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+    margin-left: 65px;
+  }
+  .fa:hover {
+    opacity: 0.8;
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+.fa-google {
+    background: #dd4b39;
+    color: white;
+  }
