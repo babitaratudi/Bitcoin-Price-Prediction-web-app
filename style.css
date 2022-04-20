@@ -1,0 +1,56 @@
+body{
+    background-image: url('bgimage.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+    button{
+        background-image: linear-gradient(#f74f3e, #99382F);;
+    
+        color: white;
+    
+        font-size: 20px;
+        border-radius: 40px;
+        display: inline;
+        text-align: center;
+        padding-left: 35px;
+        padding-right: 35px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        margin-left: 45%;
+        margin-top: 5%;
+        border-width: 0px;
+        cursor: pointer;
+        
+
+    }
+    
+    
+    .text{
+
+        color: white;
+        margin-top: 200px;
+        margin-left: 60px;
+    }
+    header{
+        font-size: 74px;
+    }
+    p{
+        font-size: 34px;
+    }
+    .fp
+    {
+        color: white;
+        font-size: 20px;
+        text-align: center;
+        padding-top: 10px;
+    }
+    a{
+        color: white;
+        text-decoration: none;
+    }
